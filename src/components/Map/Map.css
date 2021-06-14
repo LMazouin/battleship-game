@@ -1,0 +1,11 @@
+canvas {
+  display: block;
+  background: url(./grid.svg);
+  border: 1px solid gray;
+}
+
+main {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
